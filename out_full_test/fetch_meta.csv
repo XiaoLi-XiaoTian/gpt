@@ -1,0 +1,10 @@
+﻿conf,year,baseurl,invitation,submissions,accepted,error
+ICLR,2022,https://api.openreview.net,ICLR.cc/2022/Conference/-/Blind_Submission,-1,2617,
+ICLR,2023,https://api.openreview.net,ICLR.cc/2023/Conference/-/Blind_Submission,-1,3792,
+ICLR,2024,https://api2.openreview.net,ICLR.cc/2024/Conference/-/Submission,-1,2260,
+ICLR,2025,https://api2.openreview.net,ICLR.cc/2025/Conference/-/Submission,-1,3703,
+ICML,2022,,,0,0,"Could not fetch any submissions/accepted. Errors (last 12):
+"
+ICML,2023,https://api2.openreview.net,ICML.cc/2023/Conference/-/Submission,-1,1828,
+ICML,2024,https://api2.openreview.net,ICML.cc/2024/Conference/-/Submission,-1,2610,
+ICML,2025,https://api2.openreview.net,ICML.cc/2025/Conference/-/Submission,-1,3257,

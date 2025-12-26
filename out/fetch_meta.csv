@@ -1,0 +1,5 @@
+﻿conf,year,baseurl,invitation,submissions,accepted
+ICLR,2024,https://api2.openreview.net,ICLR.cc/2024/Conference/-/Submission,-1,2260
+ICLR,2025,https://api2.openreview.net,ICLR.cc/2025/Conference/-/Submission,-1,3703
+ICML,2024,https://api2.openreview.net,ICML.cc/2024/Conference/-/Submission,-1,2610
+ICML,2025,https://api2.openreview.net,ICML.cc/2025/Conference/-/Submission,-1,3257
