@@ -1,8 +1,10 @@
-# 📊 OpenReview 学术论文智能分析工具
+# 🔍 ScholarScout
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![OpenAI Compatible](https://img.shields.io/badge/OpenAI-Compatible-brightgreen.svg)](https://platform.openai.com)
+
+### 你的学术论文智能侦察兵 | Your Intelligent Academic Paper Scout
 
 > 🎓 从 OpenReview 自动抓取、智能分类和可视化 ICLR/ICML 等顶会论文
 > 🤖 支持规则分类和 LLM 智能分类的混合策略
@@ -59,7 +61,7 @@
 ```bash
 # 1. 克隆仓库
 git clone <repository-url>
-cd openreview-icl-tool
+cd scholar-scout
 
 # 2. 安装依赖
 pip install requests pandas tqdm matplotlib

@@ -28,6 +28,7 @@ llm_cache.json
 *.swo
 *~
 .DS_Store
+.claude/
 
 # 虚拟环境
 venv/
